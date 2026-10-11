@@ -3,7 +3,7 @@
 Marketing site for **Gurunanak Fruit Traders**, wholesale fruit merchants at the New Fruit
 Market, Naroda Road, Ahmedabad — trading since 1996.
 
-Built with **Next.js 15 (App Router)**, **TypeScript** and **Tailwind CSS**.
+Built with **Next.js 16 (App Router)**, **TypeScript** and **Tailwind CSS**.
 Light theme throughout, fully responsive, no email forms — every enquiry goes to WhatsApp.
 
 ---
